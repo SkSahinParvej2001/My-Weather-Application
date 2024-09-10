@@ -13,7 +13,7 @@ Welcome to the **Weather App**! This web application provides real-time weather 
 ## 🎬 Animated Previews
 
 ### 🖥️ Desktop View
-![Desktop View](Desctop_view.png)
+![Desktop View](Desktop_view.png)
 
 ### 📱 Mobile View
 ![Mobile View](Mobile_view.png)
@@ -32,4 +32,4 @@ Welcome to the **Weather App**! This web application provides real-time weather 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sahinparvej2001/weather-app.git
+   git clone https://github.com/sksahinparvej2001/weather-app.git
